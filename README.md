@@ -4,11 +4,18 @@ This is a simple "console-based Employee Attendance Tracker" built using "C". It
 
 🧾 "Features"
 👨‍💼 Admin Dashboard
+
 🟢 Add new employees
+
 🟢 View employee list
+
+
 🟢 Update employee details
+
 🟢 Delete employees
+
 🟢 Auto-save changes to "employees.csv"
+
 
 
 
